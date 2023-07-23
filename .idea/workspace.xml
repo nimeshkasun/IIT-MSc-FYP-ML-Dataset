@@ -4,119 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37971f5-4708-4129-8637-2aad4ba35f98" name="Changes" comment="+ New dataset images for Sinhala">
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/0NSSCidh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/0aqjDw4o.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/0izdToRs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/1PJYcbsB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/3boWkYqZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/3qRVbN64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/4W1slI1l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/4kuTWjdo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/6CH17fWy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/7e3W3zqP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/9nRWwizT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/CH66EmU7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/DEAc2CTE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/E424eBNI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/Eyjz4713.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/G2OMPDXr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/G4qNPyfw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/GbLgYDLK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/Hlhs6nqc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/IGDNqZVl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/IOboEo2D.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/LJGLx8NW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/MMCOJkON.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/ONZIZFO5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/RAQDa5uZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/RSUmmcRa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/S0hyau3s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/SmXi09ic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/SymT35GA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/V6lUZ5TA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/W9kjRYS8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/WEnZoIBm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/WPnHy6oK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/YvyVsE6Y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/Zu9C0yoz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/cBQRvkxH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/cbqDJWZP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/eNDjiT6d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/gEiERHeb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/gEmqlcj2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/igMrjtFy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/juIjY307.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/kCkwzzrA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/kUBrx3h8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/lG3WT0TG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/ljenFu8v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/oU90PyFh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/pTtfNRIF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/pyFFdGCz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/rydyJGiK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/uhYVN4zM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/vBdPzLjo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_1ogZK4Ht.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_32LIuaBF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_5oiMtWlo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_69WkvIco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_87nneOmC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_8Jq6AUXL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_8UjEBmw5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_9dvIt8ke.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_9tPDb43j.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_BIZSUOGE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_BOQK2DDJ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_BsREc2bi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_Ck3oTubd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_HWyCAXnR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_HsXFP6ce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_I012ejdh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_IEgu1GEt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_KD39U8ry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_MLpViKv1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_NRF8rwEW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_O9pq54TR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_PXSJFUQv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_R4aDUC8w.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_SdkEM7Qg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_Vf7Fp3Ug.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_WAZUrWPg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_WamsZX7W.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_ZPO9oREm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_aE7yy7Oa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_aJdClpof.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_aN1cOKj7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_cADJDF0s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_dE2a5Fko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_fBdF2MHp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_fDTCwIBj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_hVywli01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_hlV77V9e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_hsJ2FtUX.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_iVgNJ03V.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_ieM5Yw0Z.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_jf9TUL0G.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_kRl6Pu1b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_l0m5mf4b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_lAUOOdd5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_lOYOlPda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_nW9K0TWd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_o9ypFySA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_qB5634hq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_qF26rdMx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_t0ksGM8T.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_tt4t87t5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_volbBA6d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_z8TyYOOA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_zLd7SEe3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/white_zQ9JOFQe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/wpvNEv7o.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/wz9tyKHI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/canvas_drawings/x7BKTTA3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a37971f5-4708-4129-8637-2aad4ba35f98" name="Changes" comment="+ New dataset images for Sinhala" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,6 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690087906630</updated>
       <workItem from="1690087915094" duration="4047000" />
+      <workItem from="1690138111138" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1690088159245</created>
@@ -276,7 +165,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690099065109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="+ New dataset images for Sinhala">
+      <created>1690138353619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138353619</updated>
+    </task>
+    <task id="LOCAL-00009" summary="+ New dataset images for Sinhala">
+      <created>1690138381121</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138381121</updated>
+    </task>
+    <task id="LOCAL-00010" summary="+ New dataset images for Sinhala">
+      <created>1690138492693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138492693</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
