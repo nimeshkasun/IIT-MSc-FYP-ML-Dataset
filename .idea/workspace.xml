@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37971f5-4708-4129-8637-2aad4ba35f98" name="Changes" comment="+ New dataset images for Sinhala" />
+    <list default="true" id="a37971f5-4708-4129-8637-2aad4ba35f98" name="Changes" comment="+ New dataset images for Sinhala and Tamil" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +52,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -129,6 +129,7 @@
       <workItem from="1690087915094" duration="4047000" />
       <workItem from="1690138111138" duration="670000" />
       <workItem from="1690139284756" duration="880000" />
+      <workItem from="1690440972839" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1690088159245</created>
@@ -249,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690140140843</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690441210761</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1690441210761</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +309,7 @@
     <MESSAGE value="+ New canvas drawings" />
     <MESSAGE value="+/- README file update" />
     <MESSAGE value="+ New dataset images for Sinhala" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ New dataset images for Sinhala" />
+    <MESSAGE value="+ New dataset images for Sinhala and Tamil" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ New dataset images for Sinhala and Tamil" />
   </component>
 </project>
