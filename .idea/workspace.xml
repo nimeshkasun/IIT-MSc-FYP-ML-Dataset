@@ -131,7 +131,7 @@
       <workItem from="1690138111138" duration="670000" />
       <workItem from="1690139284756" duration="880000" />
       <workItem from="1690440972839" duration="710000" />
-      <workItem from="1690441792342" duration="18705000" />
+      <workItem from="1690441792342" duration="37204000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1690088159245</created>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690526478230</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690558785308</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1690558785308</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
