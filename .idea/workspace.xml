@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37971f5-4708-4129-8637-2aad4ba35f98" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="a37971f5-4708-4129-8637-2aad4ba35f98" name="Changes" comment="+ New dataset images for Sinhala">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,30 +54,49 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="10942314-e13a-48cf-aa0f-de9f5d8769ea" />
+        <option name="url" value="https://github.com/nimeshkasun/IIT-MSc-FYP-ML-Dataset.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SxUpK04onkM8GBSbMd1BzKMRtB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "DEV",
-    "last_opened_file_path": "C:/Users/iitfypvmadmin/PycharmProjects/IIT-MSc-FYP-ML-Dataset",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;DEV&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/iitfypvmadmin/PycharmProjects/IIT-MSc-FYP-ML-Dataset&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="IIT-MSc-FYP-ML-Dataset" />
@@ -110,7 +129,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690087906630</updated>
-      <workItem from="1690087915094" duration="831000" />
+      <workItem from="1690087915094" duration="4047000" />
+      <workItem from="1690138111138" duration="670000" />
+      <workItem from="1690139284756" duration="880000" />
+      <workItem from="1690440972839" duration="710000" />
+      <workItem from="1690441792342" duration="37204000" />
+      <workItem from="1690626432225" duration="530000" />
+      <workItem from="1690627652130" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1690088159245</created>
@@ -140,7 +165,147 @@
       <option name="project" value="LOCAL" />
       <updated>1690088556479</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+ Moving dataset from IIT-MSc-FYP-ML">
+      <created>1690089391050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690089391050</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+ New canvas drawings">
+      <created>1690097948904</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690097948904</updated>
+    </task>
+    <task id="LOCAL-00007" summary="+/- README file update">
+      <created>1690099065109</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690099065109</updated>
+    </task>
+    <task id="LOCAL-00008" summary="+ New dataset images for Sinhala">
+      <created>1690138353619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138353619</updated>
+    </task>
+    <task id="LOCAL-00009" summary="+ New dataset images for Sinhala">
+      <created>1690138381121</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138381121</updated>
+    </task>
+    <task id="LOCAL-00010" summary="+ New dataset images for Sinhala">
+      <created>1690138492693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138492693</updated>
+    </task>
+    <task id="LOCAL-00011" summary="+ New dataset images for Sinhala">
+      <created>1690138621345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138621345</updated>
+    </task>
+    <task id="LOCAL-00012" summary="+ New dataset images for Sinhala">
+      <created>1690138773530</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690138773530</updated>
+    </task>
+    <task id="LOCAL-00013" summary="+ New dataset images for Sinhala">
+      <created>1690139350972</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690139350972</updated>
+    </task>
+    <task id="LOCAL-00014" summary="+ New dataset images for Sinhala">
+      <created>1690139411709</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690139411709</updated>
+    </task>
+    <task id="LOCAL-00015" summary="+ New dataset images for Sinhala">
+      <created>1690139449691</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690139449691</updated>
+    </task>
+    <task id="LOCAL-00016" summary="+ New dataset images for Sinhala">
+      <created>1690139630651</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690139630651</updated>
+    </task>
+    <task id="LOCAL-00017" summary="+ New dataset images for Sinhala">
+      <created>1690140140843</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1690140140843</updated>
+    </task>
+    <task id="LOCAL-00018" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690441210761</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1690441210761</updated>
+    </task>
+    <task id="LOCAL-00019" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690441747950</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1690441747950</updated>
+    </task>
+    <task id="LOCAL-00020" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690460438504</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1690460438504</updated>
+    </task>
+    <task id="LOCAL-00021" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690463835646</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1690463835646</updated>
+    </task>
+    <task id="LOCAL-00022" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690526478230</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1690526478230</updated>
+    </task>
+    <task id="LOCAL-00023" summary="+ New dataset images for Sinhala and Tamil">
+      <created>1690558785308</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1690558785308</updated>
+    </task>
+    <task id="LOCAL-00024" summary="+ New dataset images for Sinhala">
+      <created>1690626679558</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1690626679558</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +350,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="+ Moving dataset from IIT-MSc-FYP-ML" />
+    <MESSAGE value="+ New canvas drawings" />
+    <MESSAGE value="+/- README file update" />
+    <MESSAGE value="+ New dataset images for Sinhala and Tamil" />
+    <MESSAGE value="+ New dataset images for Sinhala" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ New dataset images for Sinhala" />
   </component>
 </project>

@@ -1,0 +1,225 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 134217728 bytes for G1 virtual space
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
+#     placed in the first 4GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_windows.cpp:3769), pid=9840, tid=3100
+#
+# JRE version:  (17.0.6+10) (build )
+# Java VM: OpenJDK 64-Bit Server VM (17.0.6+10-b829.5, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)
+# Core dump will be written. Default location: C:\Users\iitfypvmadmin\PycharmProjects\IIT-MSc-FYP-ML-Dataset\hs_err_pid9840.mdmp
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: git4idea.http.GitAskPassApp Username for 'https://github.com': 
+
+Host: Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz, 4 cores, 7G,  Windows Server 2019 , 64 bit Build 17763 (10.0.17763.4131)
+Time: Mon Jul 24 00:29:34 2023 Sri Lanka Standard Time elapsed time: 0.015668 seconds (0d 0h 0m 0s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000027488db2930):  JavaThread "Unknown thread" [_thread_in_vm, id=3100, stack(0x000000accf500000,0x000000accf600000)]
+
+Stack: [0x000000accf500000,0x000000accf600000]
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x683b4a]
+V  [jvm.dll+0x842654]
+V  [jvm.dll+0x843dfe]
+V  [jvm.dll+0x844463]
+V  [jvm.dll+0x249b75]
+V  [jvm.dll+0x680a19]
+V  [jvm.dll+0x674f0a]
+V  [jvm.dll+0x309acb]
+V  [jvm.dll+0x310f86]
+V  [jvm.dll+0x3608ee]
+V  [jvm.dll+0x360b1f]
+V  [jvm.dll+0x2dfbf8]
+V  [jvm.dll+0x2e0b64]
+V  [jvm.dll+0x813f41]
+V  [jvm.dll+0x36e6a1]
+V  [jvm.dll+0x7f347c]
+V  [jvm.dll+0x3f0e8f]
+V  [jvm.dll+0x3f29d1]
+C  [jli.dll+0x526b]
+C  [ucrtbase.dll+0x2268a]
+C  [KERNEL32.DLL+0x17ab4]
+C  [ntdll.dll+0x5a351]
+
+
+---------------  P R O C E S S  ---------------
+
+Threads class SMR info:
+_java_thread_list=0x00007ffb462bc058, length=0, elements={
+}
+
+Java Threads: ( => current thread )
+
+Other Threads:
+  0x0000027488e0c170 GCTaskThread "GC Thread#0" [stack: 0x000000accf600000,0x000000accf700000] [id=2456]
+  0x0000027488e1dfd0 ConcurrentGCThread "G1 Main Marker" [stack: 0x000000accf700000,0x000000accf800000] [id=4844]
+  0x0000027488e1f4b0 ConcurrentGCThread "G1 Conc#0" [stack: 0x000000accf800000,0x000000accf900000] [id=6952]
+
+[error occurred during error reporting (printing all threads), id 0xc0000005, EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffb45a70797]
+
+VM state: not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x0000027488db1f60] Heap_lock - owner thread: 0x0000027488db2930
+
+Heap address: 0x0000000080000000, size: 2048 MB, Compressed Oops mode: 32-bit
+
+CDS archive(s) mapped at: [0x0000000000000000-0x0000000000000000-0x0000000000000000), size 0, SharedBaseAddress: 0x0000000800000000, ArchiveRelocationMode: 0.
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 0, Narrow klass range: 0x0
+
+GC Precious Log:
+<Empty>
+
+Heap:
+ garbage-first heap   total 0K, used 0K [0x0000000080000000, 0x0000000100000000)
+  region size 1024K, 0 young (0K), 0 survivors (0K)
+
+[error occurred during error reporting (printing heap information), id 0xc0000005, EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffb45e5d939]
+
+GC Heap History (0 events):
+No events
+
+Dll operation events (1 events):
+Event: 0.006 Loaded shared library C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\java.dll
+
+Deoptimization events (0 events):
+No events
+
+Classes unloaded (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+VM Operations (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+0x00007ff628cb0000 - 0x00007ff628cba000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\java.exe
+0x00007ffb744f0000 - 0x00007ffb746de000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ffb71ae0000 - 0x00007ffb71b93000 	C:\Windows\System32\KERNEL32.DLL
+0x00007ffb70b20000 - 0x00007ffb70dbc000 	C:\Windows\System32\KERNELBASE.dll
+0x00007ffb70e50000 - 0x00007ffb70f4a000 	C:\Windows\System32\ucrtbase.dll
+0x00007ffb5b710000 - 0x00007ffb5b727000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\jli.dll
+0x00007ffb44830000 - 0x00007ffb4484b000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\VCRUNTIME140.dll
+0x00007ffb72340000 - 0x00007ffb724d8000 	C:\Windows\System32\USER32.dll
+0x00007ffb70f50000 - 0x00007ffb70f70000 	C:\Windows\System32\win32u.dll
+0x00007ffb73af0000 - 0x00007ffb73b19000 	C:\Windows\System32\GDI32.dll
+0x00007ffb706c0000 - 0x00007ffb70860000 	C:\Windows\System32\gdi32full.dll
+0x00007ffb70860000 - 0x00007ffb70900000 	C:\Windows\System32\msvcp_win.dll
+0x00007ffb655e0000 - 0x00007ffb65859000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.4131_none_de70d21e534b9adf\COMCTL32.dll
+0x00007ffb73b20000 - 0x00007ffb73bbe000 	C:\Windows\System32\msvcrt.dll
+0x00007ffb74040000 - 0x00007ffb7436c000 	C:\Windows\System32\combase.dll
+0x00007ffb719c0000 - 0x00007ffb71add000 	C:\Windows\System32\RPCRT4.dll
+0x00007ffb70dc0000 - 0x00007ffb70e42000 	C:\Windows\System32\bcryptPrimitives.dll
+0x00007ffb71c90000 - 0x00007ffb71cbe000 	C:\Windows\System32\IMM32.DLL
+0x00007ffb5bb00000 - 0x00007ffb5bb0c000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\vcruntime140_1.dll
+0x00007ffb43420000 - 0x00007ffb434ad000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\msvcp140.dll
+0x00007ffb45780000 - 0x00007ffb463ed000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\server\jvm.dll
+0x00007ffb72280000 - 0x00007ffb72327000 	C:\Windows\System32\ADVAPI32.dll
+0x00007ffb74420000 - 0x00007ffb744bf000 	C:\Windows\System32\sechost.dll
+0x00007ffb653f0000 - 0x00007ffb653f9000 	C:\Windows\SYSTEM32\WSOCK32.dll
+0x00007ffb6d9c0000 - 0x00007ffb6d9e4000 	C:\Windows\SYSTEM32\WINMM.dll
+0x00007ffb71ba0000 - 0x00007ffb71c0d000 	C:\Windows\System32\WS2_32.dll
+0x00007ffb684a0000 - 0x00007ffb684aa000 	C:\Windows\SYSTEM32\VERSION.dll
+0x00007ffb6d2b0000 - 0x00007ffb6d2dd000 	C:\Windows\SYSTEM32\WINMMBASE.dll
+0x00007ffb70670000 - 0x00007ffb706ba000 	C:\Windows\System32\cfgmgr32.dll
+0x00007ffb704c0000 - 0x00007ffb704d1000 	C:\Windows\System32\kernel.appcore.dll
+0x00007ffb645b0000 - 0x00007ffb645ba000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\jimage.dll
+0x00007ffb60c50000 - 0x00007ffb60e3d000 	C:\Windows\SYSTEM32\DBGHELP.DLL
+0x00007ffb60bd0000 - 0x00007ffb60bfa000 	C:\Windows\SYSTEM32\dbgcore.DLL
+0x00007ffb62d60000 - 0x00007ffb62d85000 	C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\java.dll
+
+dbghelp: loaded successfully - version: 4.0.5 - missing functions: none
+symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin;C:\Windows\SYSTEM32;C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.4131_none_de70d21e534b9adf;C:\Program Files\JetBrains\PyCharm 2023.1\jbr\bin\server
+
+VM Arguments:
+java_command: git4idea.http.GitAskPassApp Username for 'https://github.com': 
+java_class_path (initial): C:/Program Files/JetBrains/PyCharm 2023.1/plugins/vcs-git/lib/git4idea-rt.jar;C:/Program Files/JetBrains/PyCharm 2023.1/lib/externalProcess-rt.jar
+Launcher Type: SUN_STANDARD
+
+[Global flags]
+     intx CICompilerCount                          = 3                                         {product} {ergonomic}
+     uint ConcGCThreads                            = 1                                         {product} {ergonomic}
+     uint G1ConcRefinementThreads                  = 4                                         {product} {ergonomic}
+   size_t G1HeapRegionSize                         = 1048576                                   {product} {ergonomic}
+    uintx GCDrainStackTargetSize                   = 64                                        {product} {ergonomic}
+   size_t InitialHeapSize                          = 134217728                                 {product} {ergonomic}
+   size_t MarkStackSize                            = 4194304                                   {product} {ergonomic}
+   size_t MaxHeapSize                              = 2147483648                                {product} {ergonomic}
+   size_t MinHeapDeltaBytes                        = 1048576                                   {product} {ergonomic}
+   size_t MinHeapSize                              = 8388608                                   {product} {ergonomic}
+    uintx NonNMethodCodeHeapSize                   = 5832780                                {pd product} {ergonomic}
+    uintx NonProfiledCodeHeapSize                  = 122912730                              {pd product} {ergonomic}
+    uintx ProfiledCodeHeapSize                     = 122912730                              {pd product} {ergonomic}
+    uintx ReservedCodeCacheSize                    = 251658240                              {pd product} {ergonomic}
+     bool SegmentedCodeCache                       = true                                      {product} {ergonomic}
+   size_t SoftMaxHeapSize                          = 2147483648                             {manageable} {ergonomic}
+     bool UseCompressedClassPointers               = true                           {product lp64_product} {ergonomic}
+     bool UseCompressedOops                        = true                           {product lp64_product} {ergonomic}
+     bool UseG1GC                                  = true                                      {product} {ergonomic}
+     bool UseLargePagesIndividualAllocation        = false                                  {pd product} {ergonomic}
+
+Logging:
+Log output configuration:
+ #0: stdout all=warning uptime,level,tags
+ #1: stderr all=off uptime,level,tags
+
+Environment Variables:
+PATH=C:\Program Files\Git\mingw64\libexec\git-core;C:\Program Files\Git\mingw64\libexec\git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\iitfypvmadmin\bin;C:\Program Files\Microsoft\jdk-11.0.11.9-hotspot\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\libnvvp;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet;C:\Miniconda;C:\Miniconda\Library\mingw-w64\bin;C:\Miniconda\Library\usr\bin;C:\Miniconda\Library\bin;C:\Miniconda\Scripts;C:\Program Files\CMake\bin;C:\Program Files (x86)\Graphviz2.38\bin;C:\Julia\bin;C:\Program Files\R\R-3.6.2\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Pandoc;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Program Files\Git\usr\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.2.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\NVIDIA\cuda;C:\Program Files\NVIDIA Corporation\NVSMI;C:\hadoop\bin;C:\dsvm\tools\spark-3.1.1-bin-hadoop2.7\bin;C:\Julia\bin;C:\Program Files\Docker;C:\Program Files\microsoft-jdk-11.0.11.9.1-windows-x64\bin;C:\dsvm\tools\DataMovement\ADL;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\R\R-4.2.1\bin;C:\Users\iitfypvmadmin\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\iitfypvmadmin\AppData\Local\Programs\Python\Python310;C:\Users\iitfypvmadmin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm 2023.1\bin
+USERNAME=iitfypvmadmin
+DISPLAY=:0.0
+LC_ALL=en_US.UTF-8
+TERM=xterm-256color
+TMPDIR=C:\Users\IITFYP~1\AppData\Local\Temp\2
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 85 Stepping 7, GenuineIntel
+TMP=C:\Users\IITFYP~1\AppData\Local\Temp\2
+TEMP=C:\Users\IITFYP~1\AppData\Local\Temp\2
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS:
+ Windows Server 2019 , 64 bit Build 17763 (10.0.17763.4131)
+OS uptime: 0 days 14:19 hours
+Hyper-V virtualization detected
+
+CPU: total 4 (initial active 4) (2 cores per cpu, 2 threads per core) family 6 model 85 stepping 7 microcode 0xffffffff, cx8, cmov, fxsr, ht, mmx, 3dnowpref, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, lzcnt, tsc, avx, avx2, aes, erms, clmul, bmi1, bmi2, rtm, adx, avx512f, avx512dq, avx512cd, avx512bw, avx512vl, fma, vzeroupper, clflush, clflushopt, hv
+
+Memory: 4k page, system-wide physical 8191M (1197M free)
+TotalPageFile size 12287M (AvailPageFile size 114M)
+current process WorkingSet (physical memory assigned to process): 10M, peak: 10M
+current process commit charge ("private bytes"): 52M, peak: 180M
+
+vm_info: OpenJDK 64-Bit Server VM (17.0.6+10-b829.5) for windows-amd64 JRE (17.0.6+10-b829.5), built on 2023-02-24 by "builduser" with MS VC++ 16.10 / 16.11 (VS2019)
+
+END.
